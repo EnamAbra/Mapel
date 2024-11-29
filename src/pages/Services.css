@@ -184,6 +184,7 @@
 .faq-item.active .faq-answer {
   max-height: 200px;
 }
+/*
 .review-title {
   display: flex;
   padding-right: 15px;
@@ -215,6 +216,7 @@
   text-align: left;
   margin-left: 40px;
 }
+
 .slide {
   display: flex;
   width: 3500px;
@@ -236,3 +238,4 @@
   color: #6b7280;
   margin-top: 40px;
 }
+*/
